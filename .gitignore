@@ -1,0 +1,27 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and test outputs
+output/*.jpg
+output/*.png
+test_road.jpg
+test_unit.jpg
+test_output/
+
+# Model Checkpoints (large binary files)
+models/checkpoints/*.pth
+!models/checkpoints/.gitkeep
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

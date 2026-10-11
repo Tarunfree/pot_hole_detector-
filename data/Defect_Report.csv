@@ -1,0 +1,3 @@
+timestamp,inspector_name,registration_no,image_id,defect_type,area_sq_pixels,area_percent,severity
+2026-10-12T00:47:13.945554,Tarun Yadav,24BAI10576,test_road.jpg,Pothole,6431,1.6078,MEDIUM
+2026-10-12T00:47:13.945554,Tarun Yadav,24BAI10576,test_road.jpg,Crack,8319,2.0798,HIGH
